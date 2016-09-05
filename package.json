@@ -18,7 +18,6 @@
 	},
 
 	"dependencies": {
-		"jquery": "^2.1.4",
 		"atom-package-dependencies" : "latest"
 	},
 
